@@ -1,0 +1,83 @@
+*{
+    margin:0;
+}
+.container{
+    background-color: aquamarine;
+    height: 155px;
+    /* position: relative; */
+}
+
+
+.ElonMusk{
+    padding-left: 50px;
+    text-align: left;
+    height: 150px;
+    background-color: rgb(219, 163, 78);
+    border: 1px solid blue;
+    top: -0.5px;
+    position: relative;
+    background-color: aquamarine;
+
+}
+.ElonMusk .box{
+    left: 0px;
+   width: 3%;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+}
+.ElonMusk img{
+    
+    border-radius: 50%;
+    margin-bottom: 400px;
+    margin-left: 580px;
+    margin-top: -112px;
+    padding: 1px;
+    
+    height: 120px;
+    width: 120px;
+    border: 3px solid black;
+
+
+}
+.information{
+    padding-right: 20px;
+    position: absolute;
+    text-align: right;
+    line-height: 35px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.KinhNgiem{
+    display: inline-block;
+    
+    text-align: left;
+    font-size: 15px;
+    line-height: 11px;
+    padding-left: 40px;
+    padding-top: 15px;
+    position: relative;
+}
+.KinhNgiem .p1{
+    padding-left: 200px;
+    color: red;
+    margin-top: 5px;
+}
+.KinhNgiem .p2{
+    margin-top: 8px;
+    color: red;
+    line-height: 10p;
+}
+ .Competence{
+    /* display: inline-block;
+    width: 400px;
+ 
+    font-size: 30px; */
+   position: absolute;
+    right: 0px;
+   
+    top:157px;
+
+} 
