@@ -15,7 +15,7 @@ console.log('Default',store.getState());
 
 store.dispatch(status());
 console.log('TOGGLE_STATUS: ',store.getState());
-
+console.log("test");
 
 store.dispatch(sort({
     by:'hung',
