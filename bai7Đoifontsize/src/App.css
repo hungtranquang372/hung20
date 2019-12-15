@@ -1,0 +1,13 @@
+span {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.active{
+  border: 3px solid black;
+}
+#content{
+  border: 1px solid;
+  width: 300px;
+  padding: 2px
+}
