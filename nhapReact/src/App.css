@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.vo,
+.hinh,
+.error {
+  height: calc(100vh - 60px);
+  background: url('./images/IMG_3290.JPG');
+  background-repeat: no-repeat;
+  background-size: center;
+  background-size: cover;
+  display: flex;
+}
+.hinh{
+  background: url(./images/room-1.jpeg);
+}
+.error{
+  background: url(./images/room-4.jpeg);
+}
+.banner{
+  display: inline-block;
+  background: grey;
+  color: aliceblue;
+  text-align: center;
+  text-transform: capitalize;
+}
+
